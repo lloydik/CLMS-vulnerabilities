@@ -1,5 +1,5 @@
 
-# SQLi in Computer Laboratory Management System
+# CVE-2025-45956 - SQLi in Computer Laboratory Management System
 + Exploit Author: Artem Glazyrin
 # Vendor Homepage
 + https://www.sourcecodester.com/php/17268/computer-laboratory-management-system-using-php-and-mysql.html
